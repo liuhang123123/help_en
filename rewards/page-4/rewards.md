@@ -25,7 +25,7 @@ or users who invite others to register, both the inviter and the invitee receive
 #### Regular Rewards
 
 {% hint style="info" %}
-常规奖励即一直存在的奖励，只要达到条件即可获得，这里主要指“交易奖励”，直到奖池用完为止。
+The regular rewards are consistently available as long as certain conditions are met. In this scenario, mainly refer to "transaction rewards," which will continue to be distributed until the reward pool is exhausted.
 {% endhint %}
 
 1. First Trade Reward
