@@ -6,6 +6,6 @@ An API (Application Programming Interface) is a set of definitions, protocols, a
 
 ## How to Configure Bitrader API
 
-Currently, Bitrader supports API connections to OKX. To configure the API, users must first log in to OKX and obtain the necessary API parameters. Detailed instructions can be found in the "Exchange API Parameter Acquisition" guide. Once you have these parameters, log in to the Bitrader App and complete the configuration by following the "Bitrader API Configuration" guide. for more info [“交易所API参数获取”](api1.md) & “[Bitrader API配置](api2.md)”。
+Currently, Bitrader supports API connections to OKX. To configure the API, users must first log in to OKX and obtain the necessary API parameters. Detailed instructions can be found in the "Exchange API Parameter Acquisition" guide. Once you have these parameters, log in to the Bitrader App and complete the configuration by following the "Bitrader API Configuration" guide. for more info “[How to Obtain OKX Exchange API Parameters](api1.md#how-to-obtain-okx-exchange-api-parameters)” & “[Bitrader API Settings](api2.md)”。
 
 <figure><img src="../../.gitbook/assets/Pagination.png" alt=""><figcaption></figcaption></figure>

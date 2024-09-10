@@ -24,6 +24,6 @@ The platform allocates 90% of its earnings to repurchase Bitrader Tokens. After 
 
 ## Giving Back to Users
 
-Giving back to community users is the foundational principle of Bitrader. For more details, please refer to the token economy model introduction. [通证经济模式介绍](broken-reference)。
+Giving back to community users is the foundational principle of Bitrader. For more details, please refer to the [token economy model introduction](broken-reference).&#x20;
 
 <figure><img src="../.gitbook/assets/header.png" alt=""><figcaption></figcaption></figure>
