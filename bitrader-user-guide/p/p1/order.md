@@ -4,16 +4,12 @@
 
 ## **Limit Order**
 
-
-
 In the Limit Order mode, the program will place an order based on the current latest mark price of the trading pair on the exchange, and the order will remain open until it is filled at the specified limit price.
 
 * **Execution Risk**: Orders may not be filled immediately, especially during rapid market movements (e.g., when prices quickly move away from the set limit price).
 * **Scenario**: Best used in stable market conditions where you want to control the price at which your order is filled.
 
 ## **Market Order**
-
-
 
 In the Market Order mode, the program continuously places orders at the best available price, ensuring that the order is filled as quickly as possible, often at 100% completion.
 
@@ -36,3 +32,4 @@ In the Planned Order mode, the program executes orders based on pre-set conditio
 > * **For Short Positions**: The program will place a sell order at a price higher by a% than the current price. When the market price rises to this level, the entry order is filled. After entering, the program will automatically place a buy order at a price lower by b% than the entry price. When the market price falls to this level, the exit order is filled.
 > * **Cost Efficiency**: Orders in this mode tend to have lower execution costs compared to Market Orders, as they are planned based on anticipated price movements rather than immediate market prices.
 
+<figure><img src="../../../.gitbook/assets/Pagination.png" alt=""><figcaption></figcaption></figure>

@@ -4,13 +4,9 @@
 
 ## **Node Allocation Bonus**
 
-
-
 * **Bonus Amount**: Upon obtaining node status, a Node Partner will receive **200,000 Bitrader Tokens**.
 * **Unlock Method**: The tokens will be unlocked gradually over **400 days** via linear release.
 * **Reduction Rule**: The total allocation for this bonus will decrease by **5% every two months**. The reduction schedule is as follows:
-
-
 
 |     2024/08/01    |    2024/10/01   |    2024/12/01   |          ···          |
 | :---------------: | :-------------: | :-------------: | :-------------------: |
@@ -23,8 +19,6 @@
 * **No Locking**: This part of the reward is **not locked** and can be used immediately.
 * **Reduction Rule**: The bonus amount decreases by **5% every two months**, as shown in the table below:
 
-
-
 |      2024/08/01     |    2024/10/01    |    2024/12/01    |          ···          |
 | :-----------------: | :--------------: | :--------------: | :-------------------: |
 |                4000 |             3800 |             3600 |                   ··· |
@@ -36,13 +30,11 @@
 
 ## **Trading Bonus**
 
-
-
 * **First Trade Reward**: When a new user referred by the node completes their first trade on Bitrader, the Node Partner receives **500 Bitrader Tokens**.
 * **Reduction Rule**: The reward decreases by **5% every two months**, following the schedule below:
-
-
 
 |       2024/08/01      |      2024/10/01     |     2024/12/01     |          ···          |
 | :-------------------: | :-----------------: | :----------------: | :-------------------: |
 |                   500 |                 475 |                450 |                   ··· |
+
+<figure><img src="../.gitbook/assets/Pagination.png" alt=""><figcaption></figcaption></figure>

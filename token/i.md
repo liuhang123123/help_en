@@ -4,8 +4,6 @@
 
 ### Token Issuance on BSC
 
-
-
 Bitrader Tokens are issued on the **Binance Smart Chain (BSC)** with the sole purpose of rewarding nodes and users who contribute to the Bitrader community.
 
 * **Contract Address**: 0x70c22f4f1672a9b97ce3D5521ee7f8981CAf65C3.
@@ -74,5 +72,3 @@ Allocation & Locking Rules for the Team
   * **Token Distribution** after buyback:
     * **25% of the repurchased tokens** will be **burned**, permanently reducing the token supply.
     * **75% of the repurchased tokens** will be distributed to nodes, which will then redistribute the tokens to users associated with those nodes.
-
-##
