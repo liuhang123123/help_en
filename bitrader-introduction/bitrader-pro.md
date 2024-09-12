@@ -10,6 +10,6 @@ Compared to the Standard Version, Bitrader Pro offers users greater earning pote
 
 ## How to Upgrade to Bitrader Pro Version？
 
-The upgrade from the Standard Version to Bitrader Pro is an automatic process. During the trial operation phase, if a user invites one trading user (after the invited user configures their API), the product will automatically upgrade to the "Bitrader Pro Version.
+The upgrade process from the standard version to the Bitrader Pro version is an automatic system upgrade process. After the user invites two trading users (only one person is required during the trial operation phase), the product will be automatically upgraded to the "Bitrader Pro version". (Note: After the invited user becomes a trading user).
 
 <figure><img src="../.gitbook/assets/Pagination (2).png" alt=""><figcaption></figcaption></figure>
