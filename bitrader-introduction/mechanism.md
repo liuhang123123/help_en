@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How Does Bitrader Work
 
 ## **Community Partnership**&#x20;
@@ -7,8 +11,6 @@ Bitrader is a platform co-created and jointly developed by community partners.
 ### Vision
 
 To serve millions of trading users and make trading more stable.
-
-
 
 ### Philosophy
 

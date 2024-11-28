@@ -2,9 +2,7 @@
 
 ## Bitrader New User Registration
 
-New users need to register through the official Bitrader H5 link, which can be obtained from a node or referrer.
-
-
+New users need to register through the official Bitrader H5 link.
 
 ## Bitrader App Download & Installation
 
