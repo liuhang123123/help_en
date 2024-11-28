@@ -2,7 +2,9 @@
 
 ## Bitrader
 
-Bitrader is an app designed for high-frequency manual trading of USDT perpetual contracts on the OKX exchange. It offers a streamlined and efficient trading experience, particularly suited for volatile markets. The app's key feature is the ability to automatically close positions based on user-defined values when the market reaches the specified price. It caters to low-risk arbitrage and frequent traders with a user-friendly interface.&#x20;
+The Bitrader App connects to the OKX exchange via API for cryptocurrency trading and is designed for users engaged in "high-frequency manual trading of USDT perpetual contracts," providing a new "simple and hassle-free" trading experience.
+
+Bitrader's trading model is particularly suitable for use in extreme and highly volatile market conditions. The core feature is that after a user opens a position, the program will automatically close it based on the user's specified order value (the position will be automatically closed when the market price reaches the order price). For users pursuing low-risk arbitrage and high-frequency trading, Bitrader offers practical and user-friendly interactive operations to help users trade more robustly.
 
 <figure><img src=".gitbook/assets/Group 47322.png" alt=""><figcaption><p>Bitrader Main Interface</p></figcaption></figure>
 

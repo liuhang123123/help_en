@@ -4,7 +4,7 @@
 
 ## Stability
 
-"Make transactions more stable"—this is the core purpose behind the launch of Bitrader.
+Making trading more robust is the original intent behind the launch of Bitrader.
 
 ## Simplicity
 
