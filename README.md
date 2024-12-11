@@ -2,9 +2,9 @@
 
 ## Bitrader
 
-The Bitrader App connects to the OKX exchange via API and is specifically designed for arbitrage trading of USDT-denominated perpetual contracts, offering users a new trading experience that is "simple and worry-free."
+The Bitrader app connects to the OKX exchange via API and is specifically designed for USDT-based perpetual contract arbitrage trading, offering users a "simple and hassle-free" trading experience.
 
-Bitrader's trading model is particularly well-suited for use in extreme and highly volatile market conditions. Its core functionality allows the program to automatically close positions at the limit price set by the user after opening a position, once the market price reaches that level. For users seeking low-risk arbitrage and high-frequency trading, Bitrader provides a practical and user-friendly interface to facilitate more stable trading.
+Bitrader's trading model is particularly suitable for use in extreme and highly volatile market conditions. Its core functionality allows the program to automatically close positions based on the user's set limit price once the market price reaches that level after opening a position. For users seeking low-risk arbitrage and high-frequency trading, Bitrader provides practical and user-friendly interactions to help achieve more robust arbitrage trading.
 
 <figure><img src=".gitbook/assets/Group 47322.png" alt=""><figcaption><p>Bitrader Main Interface</p></figcaption></figure>
 
