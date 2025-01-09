@@ -2,7 +2,7 @@
 
 ## Bitrader
 
-The Bitrader App aims to provide users with powerful tools to capture arbitrage opportunities in the cryptocurrency secondary market, covering core functions such as market monitoring, arbitrage trading, and market observation. Currently, the application specifically targets arbitrage in USDT-based perpetual contracts. Users only need to bind the exchange API to utilize Bitrader for real-time market monitoring and arbitrage trading. The innovative arbitrage order trading model adopted by Bitrader offers users a new and streamlined trading experience.
+The Bitrader App aims to provide users with powerful tools to capture arbitrage opportunities in the cryptocurrency secondary market, covering core functions such as market monitoring, arbitrage trading, and multi chart. Currently, the application specifically targets arbitrage in USDT-based perpetual contracts. Users only need to bind the exchange API to utilize Bitrader for real-time market monitoring and arbitrage trading. The innovative arbitrage order trading model adopted by Bitrader offers users a new and streamlined trading experience.
 
 Bitrader's trading model is particularly suitable for use in extreme and highly volatile market conditions. Its core functionality allows the program to automatically close positions based on the user's set limit price once the market price reaches that level after opening a position. For users seeking low-risk arbitrage and high-frequency trading, Bitrader provides practical and user-friendly interactions to help achieve more robust arbitrage trading.
 
