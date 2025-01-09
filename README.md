@@ -11,22 +11,18 @@ Bitrader's trading model is particularly suitable for use in extreme and highly 
 {% hint style="info" %}
 ## How Does Bitrader Conduct Trades？
 
-Bitrader conducts cryptocurrency trades by integrating with the OKX exchange through an API connection. <mark style="color:blue;">**Users’ cryptocurrency assets are securely stored in their OKX exchange accounts, and users retain full control over managing these assets.**</mark> Bitrader does not manage or hold any cryptocurrency assets.
+Bitrader conducts cryptocurrency trades by integrating with the exchange through an API connection. <mark style="color:blue;">**Users’ cryptocurrency assets are securely stored in their exchange accounts, and users retain full control over managing these assets.**</mark> Bitrader does not manage or hold any cryptocurrency assets.
 
-Bitrader provides users with innovative trading models and enhanced earning opportunities through advanced trading concepts. When users initiate trades on Bitrader, the platform sends trading instructions to the OKX exchange via the API. All order matching and execution are handled on the OKX exchange itself.
+Bitrader provides users with innovative trading models and enhanced earning opportunities through advanced trading concepts. When users initiate trades on Bitrader, the platform sends trading instructions to the exchange via the API. All order matching and execution are handled on the exchange itself.
 {% endhint %}
 
 {% hint style="success" %}
-## How to get hands on your first trade?
+## How to start trading?
 
-For users who **do not have an OKX trading account** or have an **OKX account that has not been active for over 180 days**, please make sure to register (new users) or log in to reactivate your account (existing users) using the following link: [OKX Registration Link](https://www.okx.com/join/2851712).[<mark style="color:red;">**https://www.okx.com/join/2851712**</mark>](https://www.okx.com/join/2851712)
-
-
-
-After users complete the API configuration in the Bitrader App (API obtained from OKX), they can start using Bitrader to trade cryptocurrencies (currently, only OKX USDT-based perpetual contract pairs are supported).\
+After users complete the API configuration in the Bitrader App (API obtained from exchange ), they can start using Bitrader to trade cryptocurrencies (currently, only USDT-based perpetual contract pairs are supported).\
 
 
-* [**OKX Exchange API Parameter Configuration**](bitrader-user-guide/api-setting/api1.md)
+* [**Exchange API Parameter Configuration**](bitrader-user-guide/api-setting/api1.md)
 * [**API Configuration Instructions**](bitrader-user-guide/api-setting/)
 
 Please refer to the following guides for more information:\
